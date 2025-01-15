@@ -1,0 +1,2 @@
+# POWDER-CHARACTERIZATION-AND-ELECTROSTATIC-HAZARDS-IN-INDUSTRIAL-PROCESS-
+Led a team in investigating the safety implications of electrostatic hazards during powder handling, which included in-depth analysis of powder properties such as static charge measurement and density determination. Based on these findings, developed comprehensive safety protocols to mitigate electrostatic risks in material handling processes."
